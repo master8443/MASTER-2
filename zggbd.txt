@@ -1,1 +1,1 @@
-vless://11df8e79-f9cc-41ed-bd21-0077baecb7e3@ip.onemaster.sbs:2083?type=ws&security=tls&path=%2F&host=master.onemaster.sbs&sni=ip.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R-MST%20%7C%202
+vless://11df8e79-f9cc-41ed-bd21-0077baecb7e3@ipp.onemaster.sbs:2083?type=ws&security=tls&path=%2F&host=master.onemaster.sbs&sni=ipp.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R-MST%20%7C%202
